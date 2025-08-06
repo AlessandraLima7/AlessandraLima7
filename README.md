@@ -11,7 +11,7 @@ Tenho **20 anos** e sou estudante de **Análise e Desenvolvimento de Sistemas** 
 <table>
   <tr>
     <td>
- <img width="400" height="400" alt="octocat-1754521024063" src="https://github.com/user-attachments/assets/00d8bda0-ab35-46c1-b008-7fc59597e2db" /> 
+ <img width="600" height="600" alt="octocat-1754521024063" src="https://github.com/user-attachments/assets/00d8bda0-ab35-46c1-b008-7fc59597e2db" /> 
  </td>
     <td>
       
