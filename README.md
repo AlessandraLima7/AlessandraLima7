@@ -19,7 +19,9 @@ Tenho **20 anos** e sou estudante de **Análise e Desenvolvimento de Sistemas** 
 <p align="center">
   <img height="300em" src="https://github-readme-stats.vercel.app/api?username=AlessandraLima7&show_icons=true&theme=vision-friendly-dark"/>
    <br>
-   </td>
+ <img align="center" alt="Alex-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img align="center" alt="Alex-github" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
+    </td>
   </tr>
 </table>
 
