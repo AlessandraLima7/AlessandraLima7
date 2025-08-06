@@ -15,11 +15,10 @@ Tenho **20 anos** e sou estudante de **Análise e Desenvolvimento de Sistemas** 
  </td>
     <td>
       
- ## 📊 Minhas estatísticas no GitHub
+  ## 📊 Minhas estatísticas no GitHub
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AlessandraLima7&show_icons=true&theme=vision-friendly-dark"/>
+  <img height="300em" src="https://github-readme-stats.vercel.app/api?username=AlessandraLima7&show_icons=true&theme=vision-friendly-dark"/>
    <br>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandraLima7&layout=compact&theme=vision-friendly-dark"/></p>
    </td>
   </tr>
 </table>
