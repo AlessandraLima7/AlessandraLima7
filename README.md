@@ -8,17 +8,18 @@ Tenho **20 anos** e sou estudante de **Análise e Desenvolvimento de Sistemas** 
 - 🎯 Praticando projetos no **freeCodeCamp** e na **DIO**  
 - 💡 Construindo minha base para ingressar no mercado de tecnologia  
 ---
- <img width="300" height="300" alt="octocat-1754521024063" src="https://github.com/user-attachments/assets/00d8bda0-ab35-46c1-b008-7fc59597e2db" />
+ <img width="250" height="250" alt="octocat-1754521024063" src="https://github.com/user-attachments/assets/00d8bda0-ab35-46c1-b008-7fc59597e2db" /> 
+ 
+ ## 📊 Minhas estatísticas no GitHub
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AlessandraLima7&show_icons=true&theme=vision-friendly-dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandraLima7&layout=compact&theme=vision-friendly-dark"/>
+</p>
 
 ## 🛠️ Tecnologias que uso
 
 - **C#:** Ainda estou aprimorando minhas habilidades
 ---
-## 📊 Minhas estatísticas no GitHub
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AlessandraLima7&show_icons=true&theme=vision-friendly-dark"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandraLima7&layout=compact&theme=vision-friendly-dark"/>
-</p>
 
 ## 📫 Vamos nos conectar!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandralima7/)  
