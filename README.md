@@ -1,34 +1,37 @@
-# 👩‍💻 Olá! Eu sou a Alessandra  
+# 👩‍💻 Olá! Eu sou a Alessandra
 
-Tenho **20 anos** e sou estudante de **Análise e Desenvolvimento de Sistemas** na Estácio.  
-  Apaixonada por transformar ideias em soluções através da programação 🚀  
+Tenho **21 anos** e sou estudante de **Análise e Desenvolvimento de Sistemas** na Estácio.
+Apaixonada por transformar ideias em soluções através da programação 🚀
+
 ---
+
 ## 🌱 Atualmente estou
-- 📚 Estudando Front-end e Back-end  
-- 🎯 Praticando projetos no **freeCodeCamp** e na **DIO**  
-- 💡 Construindo minha base para ingressar no mercado de tecnologia  
+- 📚 Estudando Front-end e Back-end
+- 🎯 Praticando projetos no **freeCodeCamp** e na **DIO**
+- 💡 Construindo minha base para ingressar no mercado de tecnologia
+
 ---
-<table>
+
+<table align="center">
   <tr>
-    <td>
- <img width="600" height="600" alt="octocat-1754521024063" src="https://github.com/user-attachments/assets/00d8bda0-ab35-46c1-b008-7fc59597e2db" /> 
- </td>
-    <td>
-      
-  ## 📊 Minhas estatísticas no GitHub
-<p align="center">
-  <img height="300em" src="https://github-readme-stats.vercel.app/api?username=AlessandraLima7&show_icons=true&theme=vision-friendly-dark"/>
-   <br>
- <img align="center" alt="Alex-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img align="center" alt="Alex-github" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
+    <td align="center" valign="middle" width="40%">
+      <img width="280" alt="octocat" src="https://github.com/user-attachments/assets/00d8bda0-ab35-46c1-b008-7fc59597e2db" />
+    </td>
+    <td align="center" valign="middle" width="60%">
+      <h3>📊 Minhas estatísticas no GitHub</h3>
+      <img height="160" src="https://github-readme-stats.vercel.app/api?username=AlessandraLima7&show_icons=true&theme=vision-friendly-dark" />
     </td>
   </tr>
 </table>
 
-## 🛠️ Tecnologias que uso
-- **C#:** Ainda estou aprimorando minhas habilidades
 ---
 
-## 📫 Vamos nos conectar!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandralima7/)  
+## 🛠️ Tecnologias que uso
+- **C#:** Ainda estou aprimorando minhas habilidades
+
+---
+
+## 📬 Vamos nos conectar!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandralima7/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:liderprograma07@gmail.com)
