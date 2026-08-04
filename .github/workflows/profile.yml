@@ -1,0 +1,56 @@
+name: Atualizar perfil dinâmico
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "23 8 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: alessandra-profile
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Baixar repositório
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Gerar SVG com métricas reais
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_USER: AlessandraLima7
+        run: |
+          set -euo pipefail
+          node .github/scripts/generate-profile.mjs
+          test -s .github/assets/profile.svg
+          grep -q "STACK ANALYTICS" .github/assets/profile.svg
+          grep -q "ACTIVITY PULSE" .github/assets/profile.svg
+
+      - name: Publicar atualização
+        run: |
+          if git diff --quiet -- .github/assets/profile.svg; then
+            echo "Nenhuma mudança no painel."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .github/assets/profile.svg
+          git commit -m "chore(profile): atualizar métricas e animações"
+          git push
