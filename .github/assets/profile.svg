@@ -188,7 +188,7 @@
       <g>
         <rect x="450" y="342" width="185" height="108" rx="18" class="panel"/>
         <circle cx="476" cy="371" r="5" fill="#a855f7" class="pulse"/>
-        <text x="470" y="414" class="stat">8</text>
+        <text x="470" y="414" class="stat">9</text>
         <text x="470" y="438" class="label" fill="#a855f7">SEGUIDORES</text>
       </g>
       <g>
@@ -1123,6 +1123,10 @@
         <rect x="528" y="778"
           width="10" height="10" rx="2.5" fill="#3b164d">
           <title>2026-08-14: 1 contribuições</title>
+        </rect>
+        <rect x="528" y="791"
+          width="10" height="10" rx="2.5" fill="#11152a">
+          <title>2026-08-15: 0 contribuições</title>
         </rect>
 
   <line x1="48" y1="850" x2="852" y2="850" stroke="#282b47"/>
