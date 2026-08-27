@@ -1172,6 +1172,10 @@
           width="10" height="10" rx="2.5" fill="#11152a">
           <title>2026-08-26: 0 contribuições</title>
         </rect>
+        <rect x="554" y="765"
+          width="10" height="10" rx="2.5" fill="#11152a">
+          <title>2026-08-27: 0 contribuições</title>
+        </rect>
 
   <line x1="48" y1="850" x2="852" y2="850" stroke="#282b47"/>
   <text x="61" y="878" class="section">PRIMARY DEPLOYMENTS</text>
