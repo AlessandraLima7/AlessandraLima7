@@ -176,13 +176,13 @@
       <g>
         <rect x="48" y="342" width="185" height="108" rx="18" class="panel"/>
         <circle cx="74" cy="371" r="5" fill="#22d3ee" class="pulse"/>
-        <text x="68" y="414" class="stat">2</text>
+        <text x="68" y="414" class="stat">3</text>
         <text x="68" y="438" class="label" fill="#22d3ee">REPOSITÓRIOS</text>
       </g>
       <g>
         <rect x="249" y="342" width="185" height="108" rx="18" class="panel"/>
         <circle cx="275" cy="371" r="5" fill="#ec4899" class="pulse"/>
-        <text x="269" y="414" class="stat">7</text>
+        <text x="269" y="414" class="stat">10</text>
         <text x="269" y="438" class="label" fill="#ec4899">CONTRIBUIÇÕES 2026</text>
       </g>
       <g>
@@ -204,18 +204,23 @@
     LINGUAGEM PRINCIPAL POR REPOSITÓRIO PÚBLICO
   </text>
   <rect x="61" y="523" width="778" height="12" rx="6" fill="#15182e"/>
-  <rect x="61" y="523" width="778" height="12" rx="6" fill="#e34c26"/>
+  <rect x="61" y="523" width="389" height="12" rx="6" fill="#3178c6"/><rect x="450" y="523" width="389" height="12" rx="6" fill="#e34c26"/>
   
       <g>
-        <circle cx="67" cy="567" r="5" fill="#e34c26"/>
-        <text x="81" y="571" class="legend">HTML</text>
-        <text x="227" y="571" text-anchor="end" class="muted">100%</text>
+        <circle cx="67" cy="567" r="5" fill="#3178c6"/>
+        <text x="81" y="571" class="legend">TypeScript</text>
+        <text x="227" y="571" text-anchor="end" class="muted">50%</text>
+      </g>
+      <g>
+        <circle cx="269" cy="567" r="5" fill="#e34c26"/>
+        <text x="283" y="571" class="legend">HTML</text>
+        <text x="429" y="571" text-anchor="end" class="muted">50%</text>
       </g>
 
   <line x1="48" y1="652" x2="852" y2="652" stroke="#282b47"/>
   <text x="61" y="680" class="section">ACTIVITY PULSE</text>
   <text x="839" y="680" text-anchor="end" class="muted">
-    6 COMMITS •
+    8 COMMITS •
     0 PRs •
     0 REVIEWS EM 2026
   </text>
@@ -1181,8 +1186,12 @@
           <title>2026-08-28: 0 contribuições</title>
         </rect>
         <rect x="554" y="791"
+          width="10" height="10" rx="2.5" fill="#7e225f">
+          <title>2026-08-29: 3 contribuições</title>
+        </rect>
+        <rect x="567" y="713"
           width="10" height="10" rx="2.5" fill="#11152a">
-          <title>2026-08-29: 0 contribuições</title>
+          <title>2026-08-30: 0 contribuições</title>
         </rect>
 
   <line x1="48" y1="850" x2="852" y2="850" stroke="#282b47"/>
@@ -1193,13 +1202,13 @@
           class="panel" stroke="#ec4899" stroke-opacity=".4"/>
         <rect x="48" y="892" width="5" height="215" rx="2.5" fill="#ec4899"/>
         <text x="68" y="930" class="index" fill="#ec4899">01</text>
-        <text x="105" y="930" class="project">lp-willgner-personal</text>
+        <text x="105" y="930" class="project">LoryBolsas</text>
         <text x="69" y="975" class="desc">Projeto de estudo e evolução</text><text x="69" y="994" class="desc">prática.</text>
         <line x1="68" y1="1049" x2="278" y2="1049" stroke="#252944"/>
         <circle cx="73" cy="1077" r="5"
-          fill="#e34c26"/>
+          fill="#3178c6"/>
         <text x="85" y="1081" class="meta">
-          HTML
+          TypeScript
         </text>
         <text x="278" y="1081" text-anchor="end" class="meta">
           ★ 0  ⑂ 0
@@ -1210,13 +1219,13 @@
           class="panel" stroke="#22d3ee" stroke-opacity=".4"/>
         <rect x="316" y="892" width="5" height="215" rx="2.5" fill="#22d3ee"/>
         <text x="336" y="930" class="index" fill="#22d3ee">02</text>
-        <text x="373" y="930" class="project">Novo projeto em bre…</text>
-        <text x="337" y="975" class="desc">Espaço reservado para uma</text><text x="337" y="994" class="desc">nova solução publicada no</text><text x="337" y="1013" class="desc">GitHub.</text>
+        <text x="373" y="930" class="project">lp-willgner-personal</text>
+        <text x="337" y="975" class="desc">Projeto de estudo e evolução</text><text x="337" y="994" class="desc">prática.</text>
         <line x1="336" y1="1049" x2="546" y2="1049" stroke="#252944"/>
         <circle cx="341" cy="1077" r="5"
-          fill="#a855f7"/>
+          fill="#e34c26"/>
         <text x="353" y="1081" class="meta">
-          Em construção
+          HTML
         </text>
         <text x="546" y="1081" text-anchor="end" class="meta">
           ★ 0  ⑂ 0
